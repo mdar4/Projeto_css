@@ -92,3 +92,20 @@ Ao retornar para tela inicial e rolar para baixo, temos os cards que aprendemos 
  
 <span>![](https://i.imgur.com/Yrogdpf.png)
  </span>
+ 
+<h2>Linguagens utilizadas</h2>
+ <ul>
+  <li>
+     HTML
+  </li>
+  <li>
+  CSS
+  </li>
+ </ul>
+
+<h2>Ferramentas</h2>
+<ul>
+ <li>
+   Visual Studio Code
+ </li>
+</ul>
